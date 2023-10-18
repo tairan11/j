@@ -1,0 +1,69 @@
+.top_strip_top{
+	background:#333333;
+}
+#menu li a {
+	color:#bbb;
+}
+.downarrowclass {
+ border-top-color: #bbb;
+}
+.header-container {
+    background: #121212;
+}
+.second-header {
+    background: #252525;
+}
+.entry a.btn-1, .entry a.btn-2 {
+    background: #121212;
+}
+.entry a.btn-1:before, .entry a.btn-2:before {
+    background: #252525;
+}
+.flex-caption-wrapper {
+	background: rgba(0, 0, 0, 0.6);
+}
+.flex-caption a.slider-readmore:before {
+    background: #121212;
+}
+.feature-icon .highlight {
+    color: #121212;
+}
+#filters li {
+    border: 1px solid #121212;
+}
+#filters li:hover, #filters li.active{
+background: #121212;
+}
+.main-footer{
+background: #252525
+}
+.footer .footer-line {
+    background: #121212;
+}
+.bottom-footer-container {
+    background: #121212;
+}
+.footer .contactform input[type=text], .footer .contactform input[type=email] {
+    background-color: #121212;
+}
+.footer .contactform textarea {
+    background-color: #121212;
+}
+.footer #searchform {
+    background-color: #121212;
+}
+#searchform {
+    background-color: #121212;
+}
+.footer ul li a {
+    background: url(images/black-arrow.png) 1px 7px no-repeat;
+}
+.page-info-container {
+background: #252525;
+}
+.page-info-container .page_info #crumbs{
+background: #121212;
+}
+.sidebar h3 {
+    color:#060606;
+}
